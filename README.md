@@ -3,9 +3,9 @@ The Hand Recognition and Finger Counting is to analyze images of hands to determ
 
 In this project I did the following:
 
-Detecting hands.
-Detecting hands moving
-Detecting Right or left hand (mirroring concepts)
-Detecting counting fingers
+1. Detecting hands.
+2. Detecting hands moving
+3. Detecting Right or left hand (mirroring concepts)
+4. Detecting counting fingers
 
 <img width="1073" alt="hand-landmarks" src="https://github.com/daa543/Hand-Recognition-and-Finger-Counting/assets/106112852/c6d5869a-e0c6-46cd-a883-d2857be70b48">
